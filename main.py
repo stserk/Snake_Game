@@ -45,4 +45,4 @@ while game_is_on:
 
 screen.exitonclick()
 
-print("Test Commit")
+print("test_commit_from_test_branch_to_main_branch")
